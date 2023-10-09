@@ -2,6 +2,13 @@
 
 Test project with microservices + Kafka 
 
+#### Kafka
+
+   - [Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.5.0/kafka_2.13-3.5.0.tgz)
+   - [QuickStart](https://kafka.apache.org/quickstart)
+   
+   I have got problems using Kafka over Windows so finally I have used an Ubuntu virtual machine with VirtualBox
+
 
 #### Thanks
 
@@ -10,7 +17,7 @@ Test project with microservices + Kafka
 
 #### Maintainers
 
-Just me, [Ivan](https://github.com/Ivan-Montes) :sweat_smile:
+Just me, [Iván](https://github.com/Ivan-Montes) :sweat_smile:
 
 
 #### Contributing
