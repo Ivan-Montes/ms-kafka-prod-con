@@ -63,5 +63,6 @@
 
 	<modules>
 		<module>kafka-prod</module>
+		<module>kafka-con</module>
 	</modules>
 </project>
