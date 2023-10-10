@@ -7,7 +7,7 @@ Test project with microservices + Kafka
    - [Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.5.0/kafka_2.13-3.5.0.tgz)
    - [QuickStart](https://kafka.apache.org/quickstart)
    
-   I have got problems using Kafka over Windows so finally I have used an Ubuntu virtual machine with VirtualBox
+   I had problems using Kafka over Windows so finally I used an Ubuntu virtual machine with VirtualBox
 
 
 #### Thanks
